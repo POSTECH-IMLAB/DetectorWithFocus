@@ -32,7 +32,7 @@ We conduct the experiments in object detection with three applications: pedestri
 
 ### Related Papers
 
-Yonghyun Kim, Bong-Nam Kang, Daijin Kim, "DETECTOR WITH FOCUS: NORMALIZING GRADIENT IN IMAGE PYRAMID," 2017  IEEE International Conference on Image Processing (ICIP), 2017.
+Yonghyun Kim, Bong-Nam Kang, Daijin Kim, "DETECTOR WITH FOCUS: NORMALIZING GRADIENT IN IMAGE PYRAMID," 2017  IEEE International Conference on Image Processing (ICIP)
 
 ### Acknowledgements
 
