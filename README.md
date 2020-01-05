@@ -19,8 +19,8 @@ If you're using this code in a publication, please cite our papers.
 ```
 
 
-
-We propose a simple and novel gradient normalization method by analyzing the gradient variation in the viewpoint of the classifier.
+### Overall
+We propose ### Overalla simple and novel gradient normalization method by analyzing the gradient variation in the viewpoint of the classifier.
 The proposed method defines the original image as reference, and normalizes gradients from other resampled images to the reference image. 
 The normalized gradient, which is similar to the gradients of original images, reduces the variance, and increases the performance of the classifiers with negligible increase in computing time.
 We show the effectiveness of the gradient normalization in object detection with three applications: pedestrian detection, pose estimation, and object detection.
