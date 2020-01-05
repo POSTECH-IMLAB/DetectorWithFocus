@@ -5,7 +5,6 @@ Created by [Yonghyun Kim](http://imlab.postech.ac.kr/members.htm) and [Daijin Ki
 
 An image pyramid can extend many object detection algorithms to solve detection on multiple scales. However, interpolation during the resampling process of an image pyramid causes gradient variation, which is the difference of the gradients between the original image and the scaled images. Our key insight is that the increased variance of gradients makes the classifiers have difficulty in correctly assigning categories. We prove the existence of the gradient variation by formulating the ratio of gradient expectations between an original image and scaled images, then propose a simple and novel gradient normalization method to eliminate the effect of this variation. The proposed normalization method reduce the variance in an image pyramid and allow the classifier to focus on a smaller coverage. We show the improvement in three different visual recognition problems: pedestrian detection, pose estimation, and object detection. The method is generally applicable to many vision algorithms based on an image pyramid with gradients.
 
-## Citation
 
 If you're using this code in a publication, please cite our papers.
 
