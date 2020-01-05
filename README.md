@@ -18,7 +18,7 @@ If you're using this code in a publication, please cite our papers.
   }  
 ```
 
-### Overall
+
 
 We propose a simple and novel gradient normalization method by analyzing the gradient variation in the viewpoint of the classifier.
 The proposed method defines the original image as reference, and normalizes gradients from other resampled images to the reference image. 
