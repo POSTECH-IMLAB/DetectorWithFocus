@@ -33,6 +33,4 @@ We show the effectiveness of the gradient normalization in object detection with
 Yonghyun Kim, Bong-Nam Kang, Daijin Kim, "DETECTOR WITH FOCUS: NORMALIZING GRADIENT IN IMAGE PYRAMID," 2017  IEEE International Conference on Image Processing (ICIP) 2017.
 
 
-### Acknowledgements
 
-This work was supported by Institute for Information & communications Technology Promotion (IITP) grant funded by the Korea government (MSIP)(2014-0-00059, Development of Predictive Visual Intelligence Technology), MSIP (Ministry of Science, ICT and Future Planning), Korea, under the ICT Consilience Creative Program (IITP-R0346-16-1007) supervised by the IITP, and MSIP(Ministry of Science, ICT and Future Planning), Korea, under the ITRC (Information Technology Research Center) support program (IITP-2017-2016-0-00464) supervised by the IITP.
