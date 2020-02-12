@@ -25,9 +25,6 @@ The proposed method defines the original image as reference, and normalizes grad
 The normalized gradient, which is similar to the gradients of original images, reduces the variance, and increases the performance of the classifiers with negligible increase in computing time.
 We show the effectiveness of the gradient normalization in object detection with three applications: pedestrian detection, pose estimation, and object detection.
 
-### Performance
-
-We conduct the experiments in object detection with three applications: pedestrian detection, pose estimation, and object detection.
 
 ### Related Papers
 
