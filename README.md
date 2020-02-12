@@ -18,6 +18,9 @@ If you're using this code in a publication, please cite our papers.
     organization={IEEE}
   }  
 ```
+### Performance
+
+We conduct the experiments in object detection with three applications: pedestrian detection, pose estimation, and object detection.
 
 ### Overall
 We propose ### Overalla simple and novel gradient normalization method by analyzing the gradient variation in the viewpoint of the classifier.
