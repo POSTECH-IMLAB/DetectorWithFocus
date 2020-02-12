@@ -29,9 +29,6 @@ The normalized gradient, which is similar to the gradients of original images, r
 We show the effectiveness of the gradient normalization in object detection with three applications: pedestrian detection, pose estimation, and object detection.
 
 
-### Related Papers
-
-Yonghyun Kim, Bong-Nam Kang, Daijin Kim, "DETECTOR WITH FOCUS: NORMALIZING GRADIENT IN IMAGE PYRAMID," 2017  IEEE International Conference on Image Processing (ICIP) 2017.
 
 ### Acknowledgements
 
